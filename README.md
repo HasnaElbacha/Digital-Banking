@@ -36,9 +36,12 @@ Ajoutez d'autres fonctionnalités supplémentaires selon les besoins spécifique
 <img src="https://github.com/HasnaElbacha/Digital-Banking/assets/92520540/8d3eb9c5-6963-4151-9624-4a013c236a2e.png" width="300" height="200">
 </div>
 - Création de la couche DTOs et service
+
 <img src="https://github.com/HasnaElbacha/Digital-Banking/assets/92520540/1c132f5b-8dee-4580-a858-5d08708e8abb.png" width="1000" height="500">
 <img src="https://github.com/HasnaElbacha/Digital-Banking/assets/92520540/6b67ee5c-bd5e-4a20-a73b-7ea65d1b701a.png" width="1000" height="500">
 - Création de la class RestController
+
 <img src="https://github.com/HasnaElbacha/Digital-Banking/assets/92520540/91f0b61b-d091-441f-a184-7448175978ff.png" width="1000" height="500">
--  Test sur les web services Restful
+- Test sur les web services Restful
+
 <img src="https://github.com/HasnaElbacha/Digital-Banking/assets/92520540/646dd713-9ab5-4822-ad03-c17f6f61f335.png" width="1000" height="500">
