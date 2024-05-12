@@ -21,6 +21,7 @@ public abstract class BankAccount {
     @Enumerated(EnumType.STRING)
     private AccountStatus status;
     @ManyToOne
+
     private Customer customer;
     @OneToMany(mappedBy = "bankAccount",fetch = FetchType.LAZY)//pour une association bidirectionnel
     private List<AccountOperation> accountOperations;
